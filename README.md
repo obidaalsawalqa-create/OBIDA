@@ -53,10 +53,8 @@
 ## 📸 لقطات شاشة
 
 واجهه التطبيق الرئيسية:
-َ
 <img width="1190" height="940" alt="image" src="https://github.com/user-attachments/assets/8526e4de-a945-4ff4-b417-fe48d257cc36" />
 صفحة الإعدادات للتحكم في التطبيق حسب رغبتك:
-َ
 <img width="1065" height="1002" alt="image" src="https://github.com/user-attachments/assets/05cd6d94-31b0-49d1-8c69-aa5d7ca8f14e" />
 
 ---
